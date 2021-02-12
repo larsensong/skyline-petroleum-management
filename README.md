@@ -1,2 +1,2 @@
 # skyline-petroleum-management
-its a website under development for mwnwging petroleum produts for a petroleumm company.
+its a website under development for managing petroleum produts for a petroleum company.
