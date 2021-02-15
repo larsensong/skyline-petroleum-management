@@ -1,2 +1,8 @@
 # skyline-petroleum-management
-its a website under development for managing petroleum produts for a petroleum company.
+Its a website under development for managing petroleum produts for a petroleum company.
+Functions:
+   ordering petroleum products
+   tracking the order and delivery process
+   generation of reports
+   
+
