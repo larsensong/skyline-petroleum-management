@@ -1,4 +1,4 @@
-#   # :container:skyline-petroleum-management :container:
+#   # :earth_africa:skyline-petroleum-management :earth_africa:
 Its a website under development for managing petroleum produts for a petroleum company.
 Functions:
    ordering petroleum products
