@@ -11,6 +11,7 @@ Functions:
    tracking the order and delivery process
    generation of reports
 
+
 ## :running: Getting Started
 
 Operating system reqd: Windows based Operating Sytems.
@@ -21,4 +22,6 @@ Hosting Server: Xampp or Wampp
 ## :warning: Prerequisites
 
    * Must have `xampp` installed
+
+## :blue_book: Authors
 
