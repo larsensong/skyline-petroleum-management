@@ -1,11 +1,12 @@
 #   # :earth_africa:skyline-petroleum-management :earth_africa:
 
 
-Its a PHP based ecoomerce website.
+Its a PHP based ecomerce website.
+
+Its a website under development for managing petroleum produts for a petroleum company
 
 ## :running: Getting Started
 
-Its a website under development for managing petroleum produts for a petroleum company.
 Functions:
    ordering petroleum products
    tracking the order and delivery process
