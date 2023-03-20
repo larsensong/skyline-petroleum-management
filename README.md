@@ -25,3 +25,5 @@ Hosting Server: Xampp or Wampp
 
 ## :blue_book: Authors
 
+* **Larsen Hailstone**
+
