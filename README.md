@@ -13,5 +13,7 @@ Functions:
 
 ## :running: Getting Started
 
+Operating system reqd: Windows based Operating Sytems.
+
    
 
